@@ -28,11 +28,27 @@ the drone will follow the bot by moving out of the trajectory temporarily, and t
   
   ## 3 Visualize anomalies
   ### 3.1 SVM
-  ![]()
+  ![](https://github.com/TokaMamdoh/Smart-cities/blob/9724ad0c8b86c84c352fc07c2a2da400eff2da2d/Anomaly%20detection/images/SVM%20anomalies.PNG)
+  
+  TSNE plot 
+  
+  ![](https://github.com/TokaMamdoh/Smart-cities/blob/9724ad0c8b86c84c352fc07c2a2da400eff2da2d/Anomaly%20detection/images/SVM-TSNE.PNG)
   ### 3.2 KNN
-  ![]()
+  ![](https://github.com/TokaMamdoh/Smart-cities/blob/9724ad0c8b86c84c352fc07c2a2da400eff2da2d/Anomaly%20detection/images/KNN%20anomalies.PNG)
+  
+  TSNE plot
+  
+  ![](https://github.com/TokaMamdoh/Smart-cities/blob/9724ad0c8b86c84c352fc07c2a2da400eff2da2d/Anomaly%20detection/images/KNN-TSNE.PNG)
   ### 3.3 PCA
-  ![]()
+  ![](https://github.com/TokaMamdoh/Smart-cities/blob/9724ad0c8b86c84c352fc07c2a2da400eff2da2d/Anomaly%20detection/images/PCA%20anomalies.PNG)
+  
+  TSNE plot
+  
+  ![](https://github.com/TokaMamdoh/Smart-cities/blob/9724ad0c8b86c84c352fc07c2a2da400eff2da2d/Anomaly%20detection/images/PCA-TSNE.PNG)
+  ### 3.4 DBSCAN
+  TSNE plot
+  
+  ![](https://github.com/TokaMamdoh/Smart-cities/blob/9724ad0c8b86c84c352fc07c2a2da400eff2da2d/Anomaly%20detection/images/DBSCAN-TSNE.PNG)
   
   ## 4 Result 
   | Models | Accuracies|
